@@ -1,11 +1,5 @@
-import Home from "./Screens/Home";
-
 const App = () => {
-  return (
-    <>
-      <Home />
-    </>
-  );
+  return <></>;
 };
 
 export default App;
