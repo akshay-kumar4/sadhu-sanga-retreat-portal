@@ -16,21 +16,12 @@ const Hero = () => {
           Hare Krsna
         </div>
       </div>
-      <div className="text-sm md:text-xl text-neutral-400 mt-4 max-w-xs md:max-w-2xl text-center mx-auto">
-        Click on any event
-      </div>
-      <div className="flex items-center sm:flex-col md:flex-row">
-        <Button className="mt-6 mr-2" size="lg">
-          Get Taskify for free
+      <div>
+        <Button className="mt-6 mr-2" size="lg" variant="outline">
+          Login
         </Button>
         <Button className="mt-6 mr-2" size="lg">
-          Get Taskify for free
-        </Button>
-        <Button className="mt-6 mr-2" size="lg">
-          Get Taskify for free
-        </Button>
-        <Button className="mt-6 mr-2" size="lg">
-          Get Taskify for free
+          Register
         </Button>
       </div>
     </div>
